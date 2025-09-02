@@ -67,7 +67,7 @@ const MembershipsPage = () => {
     {
       name: 'COMBO PIERNAS + AXILAS',
       description: 'La Combinación Más Popular',
-      example: 'Piernas + Axilas + Bigote',
+      example: 'Piernas + Axilas',
       monthly: 940,
       duration: 9,
       savings: 235,
@@ -77,9 +77,9 @@ const MembershipsPage = () => {
       name: 'COMBO TRIPLE',
       description: 'Piernas + Axilas + Bikini',
       example: 'Las 3 áreas más demandadas',
-      monthly: 1275,
+      monthly: 1069,
       duration: 12,
-      savings: 425,
+      savings: 356,
       popular: false
     }
   ];
@@ -706,5 +706,6 @@ const MembershipsPage = () => {
     </div>
   );
 };
+
 
 export default MembershipsPage;
