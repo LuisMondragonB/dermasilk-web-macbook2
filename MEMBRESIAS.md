@@ -73,7 +73,7 @@ MembershipsPage.tsx
 
 ### Formas de Ganar Puntos
 - **Referir amigas**: +100 puntos (cuando firmen membresía)
-- **Reseñas 5 estrellas**: +50 puntos (Google/Facebook)
+- **Reseñas 5 estrellas**: +100 puntos (Google/Facebook)
 - **Fotos antes/después**: +50 puntos (con autorización)
 - **Completar membresía**: +200 puntos (bonus final)
 
@@ -295,5 +295,6 @@ const [showCalculator, setShowCalculator] = useState(false);
 ---
 
 **© 2024 Dermasilk® - Sistema de Membresías**
+
 
 *"Un toque de luz para una piel perfecta, ahora más accesible que nunca"*
