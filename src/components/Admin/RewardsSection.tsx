@@ -917,7 +917,7 @@ const RewardsSection = () => {
                   >
                     <option value="">Seleccionar razón</option>
                     <option value="referir_amigas">Referir amigas (+100 puntos)</option>
-                    <option value="resena_5_estrellas">Reseña 5 estrellas (+50 puntos)</option>
+                    <option value="resena_5_estrellas">Reseña 5 estrellas (+100 puntos)</option>
                     <option value="fotos_antes_despues">Fotos antes/después (+50 puntos)</option>
                     <option value="completar_membresia">Completar membresía (+200 puntos)</option>
                     <option value="Bonus especial">Bonus especial</option>
@@ -1335,5 +1335,6 @@ const RewardsSection = () => {
     </div>
   );
 };
+
 
 export default RewardsSection;
