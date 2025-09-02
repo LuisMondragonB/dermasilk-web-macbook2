@@ -497,7 +497,7 @@ const MembershipsPage = () => {
                     <Star className="text-yellow-600" size={24} />
                   </div>
                   <div>
-                    <div className="font-semibold">Reseñas 5 estrellas: +50 puntos</div>
+                    <div className="font-semibold">Reseñas 5 estrellas: +100 puntos</div>
                     <div className="text-sm text-gray-600">en Google o Facebook</div>
                   </div>
                 </div>
@@ -709,3 +709,4 @@ const MembershipsPage = () => {
 
 
 export default MembershipsPage;
+
